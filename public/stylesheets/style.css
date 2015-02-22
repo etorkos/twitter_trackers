@@ -1,0 +1,16 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+.map {
+	background: blue url('../images/usa_night.jpg') no-repeat top left ;
+	background-size: 100%
+}
+.sidebar {
+	background: gray;
+	height: 800px;
+}
